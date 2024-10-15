@@ -1,4 +1,4 @@
-# devhit_mobile
+# mobile app
 
 A new Flutter project.
 
